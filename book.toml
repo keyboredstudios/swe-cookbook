@@ -1,5 +1,5 @@
 [book]
-authors = []
+title = "SWE Cookbook"
+authors = ["Rhett Thompson"]
 language = "en"
 src = "src"
-title = "SWE Cookbook"

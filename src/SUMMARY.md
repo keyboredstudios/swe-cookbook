@@ -1,26 +1,26 @@
 # Summary
 
-[SWE Cookbook](./chapters/title-page.md)
-[Why?](./chapters/ch00-00-why)
+[SWE Cookbook](./chapters/ch00-00-title-page.md)
+[Why?](./chapters/ch00-01-why.md)
 
 ---
 
 # Life as a SWE
 
-- [Daily routine](./chapters/ch01-00-daily-routine)
-    - [Stand up](./chapters/ch01-01-stand-up)
+- [Daily routine](./chapters/ch01-00-daily-routine.md)
+    - [Stand up](./chapters/ch01-01-stand-up.md)
     - [Dead lines]()
     - [Time management]()
     - [1:1s]()
     - [Tips]()
 
-- [On-call](./chapters/ch02-00-on-call)
+- [On-call](./chapters/ch02-00-on-call.md)
     - [Stories]()
     - [Tips]()
 
 # Tips
 
-- [Interview Prep](./chapters/ch03-00-interview-prep)
+- [Interview Prep](./chapters/ch03-00-interview-prep.md)
     - [Resources]()
     - [Mock Interviews]()
 - [Networking]()
@@ -36,5 +36,5 @@
 
 ---
 
-[Lingo](./chapters/appendix00-00-lingo)
+[Glossary](./chapters/ch99-00-glossary.md)
 [Index]()
